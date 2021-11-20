@@ -17,6 +17,6 @@ python few_shot_batch.py --data_path "./data/data.pkl" --dataset_type "mini" --t
 
 #### Moreover, we also provide the Jupyter notebook as a testing playground.
 
-Test_CUB ---> Test the basic tasks in CUB dataset. (dataset fusion, dataset distillation with UT).
-FewShot_CUB --> Visulize the fewshot learning and parameter founding in CUB dataset.
-Hyper ---> Test the Hyper Paramters of our PEM method.
+* Test_CUB ---> Test the basic tasks in CUB dataset. (dataset fusion, dataset distillation with UT).
+* FewShot_CUB --> Visulize the fewshot learning and parameter founding in CUB dataset.
+* Hyper ---> Test the Hyper Paramters of our PEM method.
