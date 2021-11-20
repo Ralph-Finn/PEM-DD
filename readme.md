@@ -7,12 +7,12 @@ Reference: https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration
 
 #### you can test the dataset distillation on miniImageNet data set as
 ```
-python dataset_distillation.py --data_path "./data/data.pkl" --dataset_type "mini"
+python dataset_distillation.py --data_path "./data/mini.pkl" --dataset_type "mini"
 ```
 
 #### you can test the few_shot learning on miniImageNet data set as
 ```
-python few_shot_batch.py --data_path "./data/data.pkl" --dataset_type "mini" --test_num 10
+python few_shot_batch.py --data_path "./data/mini.pkl" --dataset_type "mini" --test_num 10
 ```
 
 #### Moreover, we also provide the Jupyter notebook as a testing playground.
